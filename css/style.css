@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding:0;
+}
+.navigation {
+
+    height: 100px;
+    background-color:red;
+    display: flex;
+    justify-content: space-between;
+    align-items:centre;
+
+}
+
+.content {
+    height: 95px;
+    background-color:aqua;
+
+}
+
+.footer {
+    height: 100px;
+    background-color:green; 
+
+}
